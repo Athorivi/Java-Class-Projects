@@ -1,0 +1,23 @@
+computer@@Turbo-X Sphere SP10 Desktop@@AMD A4-7300 4.00 GHz@@2 GB DDR3 1600 MHz@@MSI VGA GTX 960 GAMING 4GB@@Turbo-X Monitor 21.5'' TX-215MXC@@Microsoft Windows 10 Home 64-bit@@300
+computer@@Microsoft Surface Pro 4@@Intel i5 2.60 GHz@@4GB DDR4 1600 MHz@@Intel HD520@@12.3 Inch''@@Microsoft Windows 10 Pro 64-bit@@200
+computer@@Dell@@i7@@8 ram@@intell hd 3000@@15.4 inch@@windows 10 pro 64 bit@@100
+smartphone@@Nokia@@Snapdragon 800@@3 Ram@@5 inch@@400
+television@@Lg@@42 inch@@4K@@1200
+television@@k@@k@@k@@400
+smartphone@@Samsung Galaxy S7@@mt6752@@2@@5.5@@100
+smartphone@@Lenovo@@mt6752@@4@@5@@150
+smartphone@@Nokia Lumia 930@@snapdragon 800@@2 ram@@5.0@@400
+smartphone@@Samsung Lumia 930@@mt4525@@4@@5.5@@800
+smartphone@@Lenovo K50-t5@@mt6752@@2@@5.5@@200
+television@@LG@@42@@Full HD@@800
+television@@Samsung@@48@@Full HD@@1000
+television@@Sony@@48@@Full HD@@1599
+speaker@@logitech@@25@@35
+speaker@@Sony@@50@@50
+speaker@@Philips@@200@@400
+printer@@HP@@3d@@A4@@personal@@200
+printer@@Sony@@ink@@A4@@personal@@150
+printer@@Panasonic@@Laser@@A4@@personal@@200
+camera@@red@@Sony@@10@@150
+camera@@black@@HP@@14@@200
+camera@@white@@Panasonic@@14@@250
